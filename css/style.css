@@ -1,3 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  text-align: center;
+}
+
+figure {
+  background-color: rgb(191, 186, 180);
+  padding: 3rem;
+}
 img {
-  justify-self: center;
+  width: 100%;
+}
+p {
+  margin: 0 3rem;
 }
